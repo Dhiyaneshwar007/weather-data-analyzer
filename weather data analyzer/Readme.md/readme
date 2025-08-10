@@ -1,0 +1,21 @@
+This project focuses on the analysis of historical weather data using Python. It includes data cleaning, exploratory data analysis (EDA), visualization, and trend identification to gain insights into temperature, precipitation, humidity, wind speed, and other meteorological parameters. The goal is to uncover patterns, anomalies, and correlations within the dataset that could help in understanding climate behavior and supporting data-driven decision-making.
+
+Features:
+Data preprocessing and cleaning
+
+Exploratory Data Analysis (EDA)
+
+Time-series analysis of weather parameters
+
+Visualization using Matplotlib & Seaborn
+
+Correlation analysis between variables
+
+Trend detection and seasonal decomposition
+
+Tech Stack:
+Python (Pandas, NumPy)
+
+Matplotlib, Seaborn
+
+Jupyter Notebooks
